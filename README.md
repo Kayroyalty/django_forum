@@ -1,3 +1,3 @@
 # django_forum
 
-djangoforum.kayroyalty.repl.co
+https://djangoforum--kayroyalty.repl.co/
